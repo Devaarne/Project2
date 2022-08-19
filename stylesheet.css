@@ -45,3 +45,9 @@ footer {
 .icons{
   width: 3rem; margin: 0.5rem; height: auto;
 }
+
+body {
+  background-image: url("face.png"), url("fullBody1.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+}
