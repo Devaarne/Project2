@@ -47,7 +47,11 @@ footer {
 }
 
 body {
-  background-image: url("face.png"), url("fullBody1.png");
+  background-image: url("./images/devaarnecool.jpg"), url("./images/profilephoto.jpg");
   background-repeat: no-repeat, repeat;
   background-color: #cccccc;
+}
+
+body {
+  background: white url(devaarnecool.jpg)
 }
